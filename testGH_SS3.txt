@@ -1,0 +1,12 @@
+echo "# Work_Prog1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M mainprog1
+git remote add origin git@github.com:VSCUser999/Work_Prog1.git
+git push -u origin mainprog1
+
+--------------------------------------------------------------------
+git remote add origin git@github.com:VSCUser999/Work_Prog1.git
+git branch -M mainprog1
+git push -u origin mainprog1
